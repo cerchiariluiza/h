@@ -1,0 +1,57 @@
+2020-07-29 19:25:25.534  INFO 9036 --- [restartedMain] com.proj.Projm1Application               : Starting Projm1Application on DESKTOP-HB9BT5J with PID 9036 (C:\Users\Luiza\Desktop\sts-bundle\sts-3.9.13.RELEASE\projm-1\target\classes started by Luiza in C:\Users\Luiza\Desktop\sts-bundle\sts-3.9.13.RELEASE\projm-1)
+2020-07-29 19:25:25.538 DEBUG 9036 --- [restartedMain] com.proj.Projm1Application               : Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2020-07-29 19:25:25.538  INFO 9036 --- [restartedMain] com.proj.Projm1Application               : No active profile set, falling back to default profiles: default
+2020-07-29 19:25:25.605  INFO 9036 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-07-29 19:25:25.605  INFO 9036 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-07-29 19:25:26.758  INFO 9036 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8090 (http)
+2020-07-29 19:25:26.768  INFO 9036 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-07-29 19:25:26.768  INFO 9036 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-07-29 19:25:26.890  INFO 9036 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/luiza]  : Initializing Spring embedded WebApplicationContext
+2020-07-29 19:25:26.890  INFO 9036 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1284 ms
+2020-07-29 19:25:27.160  INFO 9036 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-07-29 19:25:27.370  INFO 9036 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2020-07-29 19:25:27.411  INFO 9036 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8090 (http) with context path '/luiza'
+2020-07-29 19:25:27.424  INFO 9036 --- [restartedMain] com.proj.Projm1Application               : Started Projm1Application in 2.424 seconds (JVM running for 3.593)
+2020-07-29 19:25:27.430  INFO 9036 --- [restartedMain] com.proj.Projm1Application               : Finalizando o run
+2020-07-29 19:25:27.431  WARN 9036 --- [restartedMain] com.proj.Projm1Application               : Finalizando o run
+2020-07-29 19:25:27.431 DEBUG 9036 --- [restartedMain] com.proj.Projm1Application               : Finalizando o run
+2020-07-29 19:25:27.432 ERROR 9036 --- [restartedMain] com.proj.Projm1Application               : Finalizando o run
+2020-07-29 19:26:01.494  INFO 9036 --- [Thread-7] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-07-29 19:26:01.636  INFO 9036 --- [restartedMain] com.proj.Projm1Application               : Starting Projm1Application on DESKTOP-HB9BT5J with PID 9036 (C:\Users\Luiza\Desktop\sts-bundle\sts-3.9.13.RELEASE\projm-1\target\classes started by Luiza in C:\Users\Luiza\Desktop\sts-bundle\sts-3.9.13.RELEASE\projm-1)
+2020-07-29 19:26:01.637 DEBUG 9036 --- [restartedMain] com.proj.Projm1Application               : Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2020-07-29 19:26:01.637  INFO 9036 --- [restartedMain] com.proj.Projm1Application               : No active profile set, falling back to default profiles: default
+2020-07-29 19:26:01.997  INFO 9036 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8090 (http)
+2020-07-29 19:26:01.999  INFO 9036 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-07-29 19:26:01.999  INFO 9036 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-07-29 19:26:02.014  INFO 9036 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/luiza]  : Initializing Spring embedded WebApplicationContext
+2020-07-29 19:26:02.014  INFO 9036 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 373 ms
+2020-07-29 19:26:02.070  INFO 9036 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-07-29 19:26:02.128  INFO 9036 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2020-07-29 19:26:02.146  INFO 9036 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8090 (http) with context path '/luiza'
+2020-07-29 19:26:02.154  INFO 9036 --- [restartedMain] com.proj.Projm1Application               : Started Projm1Application in 0.571 seconds (JVM running for 38.323)
+2020-07-29 19:26:02.159  INFO 9036 --- [restartedMain] com.proj.Projm1Application               : Finalizando o run
+2020-07-29 19:26:02.159  WARN 9036 --- [restartedMain] com.proj.Projm1Application               : Finalizando o run
+2020-07-29 19:26:02.160 DEBUG 9036 --- [restartedMain] com.proj.Projm1Application               : Finalizando o run
+2020-07-29 19:26:02.160 ERROR 9036 --- [restartedMain] com.proj.Projm1Application               : Finalizando o run
+2020-07-29 19:26:02.161  INFO 9036 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2020-07-29 19:26:03.536  INFO 9036 --- [RMI TCP Connection(11)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2020-07-29 19:26:03.939  INFO 9036 --- [RMI TCP Connection(11)-127.0.0.1] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-07-29 19:26:08.786  INFO 9400 --- [restartedMain] com.proj.Projm1Application               : Starting Projm1Application on DESKTOP-HB9BT5J with PID 9400 (C:\Users\Luiza\Desktop\sts-bundle\sts-3.9.13.RELEASE\projm-1\target\classes started by Luiza in C:\Users\Luiza\Desktop\sts-bundle\sts-3.9.13.RELEASE\projm-1)
+2020-07-29 19:26:08.789 DEBUG 9400 --- [restartedMain] com.proj.Projm1Application               : Running with Spring Boot v2.3.2.RELEASE, Spring v5.2.8.RELEASE
+2020-07-29 19:26:08.789  INFO 9400 --- [restartedMain] com.proj.Projm1Application               : No active profile set, falling back to default profiles: default
+2020-07-29 19:26:08.874  INFO 9400 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-07-29 19:26:08.875  INFO 9400 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-07-29 19:26:09.987  INFO 9400 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8090 (http)
+2020-07-29 19:26:10.003  INFO 9400 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-07-29 19:26:10.003  INFO 9400 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-07-29 19:26:10.097  INFO 9400 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/luiza]  : Initializing Spring embedded WebApplicationContext
+2020-07-29 19:26:10.098  INFO 9400 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1223 ms
+2020-07-29 19:26:10.392  INFO 9400 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-07-29 19:26:10.570  INFO 9400 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2020-07-29 19:26:10.613  INFO 9400 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8090 (http) with context path '/luiza'
+2020-07-29 19:26:10.627  INFO 9400 --- [restartedMain] com.proj.Projm1Application               : Started Projm1Application in 2.344 seconds (JVM running for 3.885)
+2020-07-29 19:26:10.631  INFO 9400 --- [restartedMain] com.proj.Projm1Application               : Finalizando o run
+2020-07-29 19:26:10.631  WARN 9400 --- [restartedMain] com.proj.Projm1Application               : Finalizando o run
+2020-07-29 19:26:10.631 DEBUG 9400 --- [restartedMain] com.proj.Projm1Application               : Finalizando o run
+2020-07-29 19:26:10.632 ERROR 9400 --- [restartedMain] com.proj.Projm1Application               : Finalizando o run
+2020-07-29 19:26:28.587  INFO 9400 --- [Thread-7] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
